@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá! Eu sou o Léviro 👋
+- 🔭 Atualmente estou trabalhando como Líder de Projetos de Engenharia na Vibra Energia S/A
 
 <!--
 **LeviroP/LeviroP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Leviro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviroP)](https://github.com/anuraghazra/github-readme-stats)
